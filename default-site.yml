@@ -1,6 +1,6 @@
 ---
 site:
-  title: Terraform & Red Hat Ansible Automation Platform (AAP 2.5)
+  title: Getting started with Ansible Navigator
   url: https://redhat-scholars.github.io/course-template
   start_page: modules::index.adoc
 
