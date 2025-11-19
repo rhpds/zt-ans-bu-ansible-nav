@@ -1,0 +1,19 @@
+---
+lab:
+  name: "Get started with ansible-navigator"
+  description:
+    summary: "Learn how to install, configure and use ansible-navigator to run your automation and troubleshoot your execution environments."
+    goal: "Learn how to install, configure and use ansible-navigator to run your automation and troubleshoot your execution environments."
+    use_case: "Building content using ansible-navigator"
+    concepts:
+      - "Catalog Automation"
+      - "Metadata-Driven Configuration"
+      - "GitHub Actions Workflows"
+    time_to_complete: "30 min"
+  git_ref:
+    production: "v0.0.1"
+    development: "main"
+  ansible:
+    ironrdp_enable: false
+    auth_cloud_provider: "none"
+  maintainer: "Leo Gallego, lgallego@redhat.com"
