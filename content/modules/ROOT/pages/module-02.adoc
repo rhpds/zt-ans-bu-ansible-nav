@@ -60,3 +60,7 @@ Remember, if you ever get lost within the `ansible-navigator` TUI, pressing `Esc
 == Next Steps
 
 You have now explored the basic navigation and features of `ansible-navigator`. Press the `Next` button below to proceed to the next challenge.
+
+== Troubleshooting
+
+If you have encountered an issue or have noticed something not quite right, please link:https://github.com/ansible/workshops/issues/new?labels=controller-101&title=Issue+with+Getting+started+with+ansible-navigator&assignees=leogallego[open an issue on GitHub].
