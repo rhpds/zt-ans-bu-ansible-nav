@@ -58,3 +58,7 @@ NOTE: The `:open` subcommand works on any screen within the `ansible-navigator` 
 == Next Steps
 
 You have learned how to configure and use the `:open` subcommand in `ansible-navigator`. Press the `Next` button below to proceed.
+
+== Troubleshooting
+
+If you have encountered an issue or have noticed something not quite right, please link:https://github.com/ansible/workshops/issues/new?labels=controller-101&title=Issue+with+Getting+started+with+ansible-navigator&assignees=leogallego[open an issue on GitHub].

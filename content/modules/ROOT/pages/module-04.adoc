@@ -63,3 +63,7 @@ You can use `ansible-navigator` itself to inspect the contents of the execution 
 == Next Steps
 
 You have successfully configured `ansible-navigator` to use an execution environment and inspected its contents. Press the `Next` button below.
+
+== Troubleshooting
+
+If you have encountered an issue or have noticed something not quite right, please link:https://github.com/ansible/workshops/issues/new?labels=controller-101&title=Issue+with+Getting+started+with+ansible-navigator&assignees=leogallego[open an issue on GitHub].
