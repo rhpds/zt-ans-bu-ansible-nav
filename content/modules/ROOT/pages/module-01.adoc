@@ -34,7 +34,7 @@ ansible-navigator --help
 ---
 - name: this is just a test
   hosts: localhost
-  gather_facts: false
+  gather_facts: true
   tasks:
     - name: ping test
       ansible.builtin.ping:
