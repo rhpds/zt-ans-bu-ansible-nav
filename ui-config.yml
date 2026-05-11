@@ -19,10 +19,6 @@ antora:
     - name: module-05
       label: "Testing our collection with Molecule"
       solveButton: false
-    - name: module-06
-      label: "What's next ?"
-      solveButton: false
-
 
 tabs:
   - name: VS Ccode
