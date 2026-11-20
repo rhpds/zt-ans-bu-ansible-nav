@@ -15,3 +15,5 @@ TIP: The author is listed in the `DOCUMENTATION` block of the `fact_diff` module
 == Troubleshooting
 
 If you have encountered an issue or have noticed something not quite right, please link:https://github.com/ansible/workshops/issues/new?labels=controller-101&title=Issue+with+Getting+started+with+ansible-navigator&assignees=leogallego[open an issue on GitHub].
+
+[small]#Answer key: `@cidrblock` (Bradley Thornton), author of the `fact_diff` module.#
