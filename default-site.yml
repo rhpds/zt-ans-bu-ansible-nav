@@ -1,8 +1,8 @@
 ---
 site:
   title: Getting started with Ansible Navigator
-  url: https://redhat-scholars.github.io/course-template
-  start_page: modules::index.adoc
+  url: https://rhpds.github.io/zt-ans-bu-ansible-nav
+  start_page: modules::module-01.adoc
 
 content:
   sources:
