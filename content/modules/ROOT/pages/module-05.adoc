@@ -2,9 +2,8 @@
 
 In the previous challenge, you were tasked with finding the github handle of the author of the `fact_diff` module contained in the `ansible.utils` collection. What was that handle?
 
-Select the answer you believe is correct, then use the *Next* button below to complete the lab.
+Select the answer you believe is correct, then use the *End* button at the bottom of the page to complete the lab. The knowledge check is self-assessed — the checkboxes are not graded.
 
-+
 [%interactive]
 * [ ] `@hardcider`
 * [ ] `@ianaboss`
