@@ -1,21 +1,17 @@
 = Knowledge Check: Module Author
-:doctype: book
-:type: quiz
-:id: kgbfxxvsvz43_reformatted
-:slug: navigator-quiz-reformatted
-:title: Knowledge Check
-:teaser: Put your knowledge to the test!
-:difficulty: basic
-:timelimit: 60
-:answers: ["@hardcider", "@ianaboss", "@osisupermodel", "@cidrblock"]
-:solution: [3]
 
 In the previous challenge, you were tasked with finding the github handle of the author of the `fact_diff` module contained in the `ansible.utils` collection. What was that handle?
 
-* @hardcider
-* @ianaboss
-* @osisupermodel
-* @cidrblock
+Select the answer you believe is correct, then use the *Next* button below to complete the lab.
+
++
+[%interactive]
+* [ ] `@hardcider`
+* [ ] `@ianaboss`
+* [ ] `@osisupermodel`
+* [ ] `@cidrblock`
+
+TIP: The author is listed in the `DOCUMENTATION` block of the `fact_diff` module. You can view it by running `ansible-navigator doc ansible.utils.fact_diff --mode stdout` in the terminal, or by browsing the collection with the `:collections` subcommand.
 
 == Troubleshooting
 
